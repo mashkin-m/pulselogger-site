@@ -1,2 +1,3 @@
 # pulselogger-site
-Публичные страницы программы PulseLogger: описание и политика конфиденциальности
+
+PulseLogger: home page and privacy policy.
